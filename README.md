@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am second year innopolis student. Interested in python, backend, telegram bots and blockchain. 
+
 <!--
 **sevenzing/sevenzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
