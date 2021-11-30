@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am second year innopolis student. Interested in python, backend, telegram bots and blockchain. 
+Enthusiastic web and backend developer with passion for blockchain. Experienced with large projects, complicated architectures and custom libraries. Love memes and board games. 
+
+telegram: @sevenzing
 
 <!--
 **sevenzing/sevenzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
