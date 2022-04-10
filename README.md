@@ -1,23 +1,15 @@
-### Hi Привет Salut Hola Selam 👋
+### 👋 Hi · Привет · Salut · Hola · Selam 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenzing)](https://github.com/anuraghazra/github-readme-stats)
 
+## About
++ Enthusiastic backend developer with passion for blockchain
++ Working with python since 2018. Know difference between generators and iterators, why `hash([])` is illegal and why metaclasses are needed.
++ Experienced with large projects, complicated architectures and custom libraries
++ Love memes and board games
++ [Hate](https://t.me/vsratii_linux) linux. However I've been using it for 4 years now 
 
-Enthusiastic web and backend developer with passion for blockchain. Experienced with large projects, complicated architectures and custom libraries. Love memes and board games. 
 
-telegram: @sevenzing
-
-<!--
-**sevenzing/sevenzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+telegram: [@sevenzing](https://t.me/sevenzing)      <-- preferred
+email: `lymarenko.lev@gmail.com`
