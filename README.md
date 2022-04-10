@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Привет Salut Hola Selam 👋
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenzing)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Enthusiastic web and backend developer with passion for blockchain. Experienced with large projects, complicated architectures and custom libraries. Love memes and board games. 
 
