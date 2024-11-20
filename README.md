@@ -13,4 +13,4 @@
 
 ## Contact me
 + telegram: [@lymarenkolev](https://t.me/lymarenkolev) (preferred)
-+ email: `lymarenko.lev@gmail.com`
++ email: `its@llev.me`
