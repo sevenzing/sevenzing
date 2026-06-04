@@ -1,6 +1,6 @@
 ### 👋 Hi · Привет · Salut · Hola · สวัสดี · Zdravo
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenzing&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=sevenzing&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## About
